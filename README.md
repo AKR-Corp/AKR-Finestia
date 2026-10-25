@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://corp.akra13.fr/Softwares%20Images/FinestiaIcon.png" width="120" alt="AKR Finestia" />
+<img src="https://corp.akra13.fr/Softwares%20Images/Finestia.png" width="120" alt="AKR Finestia" />
 
 # AKR Finestia
 
 **Suivez vos comptes, vos revenus et vos dépenses, du temps de travail jusqu'au budget.**
 
-![Version](https://img.shields.io/badge/version-3.0-orange)
-![Platform](https://img.shields.io/badge/plateforme-macOS-blue)
+![Version](https://img.shields.io/github/v/release/AKR-Corp/AKR-Finestia?label=version&include_prereleases&color=orange)
+![Platform](https://img.shields.io/badge/plateformes-Windows%20%7C%20macOS-blue)
 ![Licence](https://img.shields.io/badge/licence-propriétaire-red)
-[![Site officiel](https://img.shields.io/badge/site-corp.akra13.fr-6e40c9)](https://corp.akra13.fr)
+[![Site officiel](https://img.shields.io/badge/site-corp.akra13.fr-6e40c9)](https://corp.akra13.fr/softs/Finestia/fr/)
 [![App Store](https://img.shields.io/badge/App%20Store-disponible-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/akr-finestia/id6825241417)
 
 </div>
@@ -19,14 +19,14 @@
 ## 📸 Aperçu
 
 <div align="center">
-<img src="https://corp.akra13.fr/Softwares%20Images/Finestia.png" width="700" alt="Aperçu AKR Finestia" />
+<img src="https://corp.akra13.fr/Softwares%20Images/ScreenFinestia.png" width="700" alt="Aperçu AKR Finestia" />
 </div>
 
 ## ✨ À propos
 
 **AKR Finestia** est votre application de gestion financière personnelle. Elle rassemble en un seul endroit votre **calendrier de travail**, vos **contrats**, vos **comptes** et toutes vos **opérations**, pour savoir précisément ce que vous gagnez, ce que vous dépensez et où va votre argent.
 
-Entièrement repensée dans sa version 3, avec une nouvelle interface claire et moderne, elle fonctionne **directement sur votre ordinateur** : vos données restent chez vous, avec sauvegardes automatiques et, si vous le souhaitez, sauvegarde en ligne via votre compte AKR.
+Entièrement repensée dans sa version 3, avec une nouvelle interface claire et moderne, elle fonctionne **directement sur votre ordinateur**, sous **Windows** comme sous **macOS** : vos données restent chez vous, avec sauvegardes automatiques et, si vous le souhaitez, sauvegarde en ligne via votre compte AKR.
 
 ## 🚀 Fonctionnalités
 
@@ -48,14 +48,32 @@ Entièrement repensée dans sa version 3, avec une nouvelle interface claire et 
 ## 📥 Téléchargement
 
 <div align="center">
-
-<h3> Sur l'App Store</h3>
-
-<a href="https://apps.apple.com/app/akr-finestia/id6825241417">👉 <b>Télécharger AKR Finestia sur l'App Store</b></a>
-
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<div align="center">
+<h3>🖥️ Sur Windows</h3>
+<a href="https://dl.akra13.fr/FinestiaSetup">👉 <b>Télécharger AKR Finestia</b></a>
 <br><br>
-
+Logiciel dédié
+</div>
+</td>
+<td width="50%" align="center" valign="top">
+<div align="center">
+<h3> Sur l'App Store</h3>
+<a href="https://apps.apple.com/app/akr-finestia/id6825241417">👉 <b>Télécharger sur l'App Store</b></a>
+<br><br>
 💻 macOS
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+Retrouvez toutes les informations, captures d'écran et le détail des fonctionnalités sur la page officielle du logiciel :
+**[corp.akra13.fr/softs/Finestia](https://corp.akra13.fr/softs/Finestia/fr/)**
 
 </div>
 
